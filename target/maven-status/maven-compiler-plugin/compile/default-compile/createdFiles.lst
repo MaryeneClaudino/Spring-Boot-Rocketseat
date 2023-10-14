@@ -1,0 +1,10 @@
+br/com/maryene/todolist/task/TaskModel.class
+br/com/maryene/todolist/task/ITaskRepository.class
+br/com/maryene/todolist/user/IUserRepository.class
+br/com/maryene/todolist/user/UserModel.class
+br/com/maryene/todolist/user/UserController.class
+br/com/maryene/todolist/task/TaskController.class
+br/com/maryene/todolist/errors/ExcepitionHandletController.class
+br/com/maryene/todolist/filter/FilterTaskAuth.class
+br/com/maryene/todolist/TodolistApplication.class
+br/com/maryene/todolist/utils/Utils.class
